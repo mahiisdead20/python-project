@@ -1,5 +1,4 @@
-# python-project
------------------- Micro Marketplace: ---------------------------------
+
 
 Project Title
 Micro Marketplace – Console-Based Python Application
